@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-
 ![Top Langs](https://ryeshiro5778s-github-readme-stats-flax-phi.vercel.app/api/top-langs/?username=rye-shiro5778&count_private=true)
 
 
