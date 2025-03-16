@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rye-shiro5778&count_private=true&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://ryeshiro5778s-github-readme-stats-flax-phi.vercel.app/api/top-langs/?username=ryeshiro5778&private=true&layout=compact)
+
 
 <!--
 **rye-shiro5778/rye-shiro5778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
